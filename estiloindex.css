@@ -66,6 +66,16 @@ a:hover{
     padding: 5%;
 }
 
+.logo {
+    width: 174px;
+    height: 180px;
+}
+
+.club-img {
+    width: 269px;
+    height: 188px;
+}
+
 .table {
     display: flex;
     align-items: center;
